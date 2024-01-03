@@ -35,21 +35,21 @@ Write the detailed procedure here
 
 
 ## Program:
-HAL SUBTRACTOR:
+                                   HAL SUBTRACTOR:
 ![291060477-0bbca9ef-e791-4bdc-9c95-0f5c42080a9a](https://github.com/KARTHICKT24/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/149347526/90399895-e90b-49c6-b32a-f366f80cdd33)
 
-FULL SUBTRACTOR:
+                                  FULL SUBTRACTOR:
 
 ![291060499-81cb63a7-e6b9-4a4a-84f0-9de13c026ab3](https://github.com/KARTHICKT24/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/149347526/4f5e70e8-244c-4643-a2ba-911b0f78e18a)
 
 
 
 ## Truthtable:
-HALF SUBTRACTOR:
+                                 HALF SUBTRACTOR:
 
 ![291060529-cf2977c3-e1e0-4f0c-bb78-3354672e5f29](https://github.com/KARTHICKT24/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/149347526/09868b14-f71e-4805-a02e-c9d1ca36b1fb)
 
-FULL SUBTRACTOR:
+                               FULL SUBTRACTOR:
 ![291060551-1e82ad30-477d-406d-88a1-795a50c51fcd](https://github.com/KARTHICKT24/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/149347526/4a280e42-8f03-4189-9c89-c814d85affcf)
 
 # RTL:
