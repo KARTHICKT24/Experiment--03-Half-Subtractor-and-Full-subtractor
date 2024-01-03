@@ -1,4 +1,6 @@
-# Experiment--03-Half-Subtractor-and-Full-subtractor
+# NAME : karthick kishore.T
+# REF NO :212223220042
+# Experiment--04-Half-Subtractor-and-Full-subtractor
 ## Implementation-of-Half-subtractor-and-Full-subtractor-circuit
 ## AIM:
 To design a half subtractor and full subtractor circuit and verify its truth table in Quartus using Verilog programming.
@@ -33,22 +35,43 @@ Write the detailed procedure here
 
 
 ## Program:
-/*
-Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
+HAL SUBTRACTOR:
+![291060477-0bbca9ef-e791-4bdc-9c95-0f5c42080a9a](https://github.com/KARTHICKT24/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/149347526/90399895-e90b-49c6-b32a-f366f80cdd33)
 
-## Output:
+FULL SUBTRACTOR:
 
-## Truthtable
+![291060499-81cb63a7-e6b9-4a4a-84f0-9de13c026ab3](https://github.com/KARTHICKT24/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/149347526/4f5e70e8-244c-4643-a2ba-911b0f78e18a)
 
 
 
-##  RTL realization
+## Truthtable:
+HALF SUBTRACTOR:
+
+![291060529-cf2977c3-e1e0-4f0c-bb78-3354672e5f29](https://github.com/KARTHICKT24/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/149347526/09868b14-f71e-4805-a02e-c9d1ca36b1fb)
+
+FULL SUBTRACTOR:
+![291060551-1e82ad30-477d-406d-88a1-795a50c51fcd](https://github.com/KARTHICKT24/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/149347526/4a280e42-8f03-4189-9c89-c814d85affcf)
+
+# RTL:
+HALF SUBTRACTOR:
+![291060657-7a07d859-b19e-4967-ba0b-1f7bcb22929a](https://github.com/KARTHICKT24/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/149347526/cd07aa73-4dc0-43dc-bbf6-4f72ae1575ce)
+
+FULL SUBRACTOR:
+
+![291060697-4906ce1f-1432-43f7-8f1e-77e099a78735](https://github.com/KARTHICKT24/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/149347526/c90cd743-d1d9-47c1-bc0b-16f96a7f49e6)
 
 
-## Timing diagram 
+
+
+## Timing diagram :
+HALF SUBTRACTOR:
+
+![291060630-82410179-f05f-455e-bb36-64f3d9e41280](https://github.com/KARTHICKT24/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/149347526/7b0865fb-549a-4fdf-93d5-4288ed8c874c)
+
+
+FULL SUBTRACTOR:
+
+![291060617-1a2d26b8-ece2-4523-9248-211720c47f26](https://github.com/KARTHICKT24/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/149347526/61220f7b-1958-4fd0-9efc-a77e8f4822ef)
 
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
